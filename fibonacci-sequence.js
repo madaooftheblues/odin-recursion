@@ -19,5 +19,3 @@ function fibsRec(n) {
 
     return [...prevFibs, nthFib]
 }
-
-console.log(fibsRec(8))
